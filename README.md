@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./WikiFrame_Logo.png" alt="WikiFrame Logo" width="200"/>
+</div>
+
 # WikiFrame
 
 WikiFrame is a dynamic e-paper display project that showcases randomly selected high-resolution images from Wikimedia Commons. Designed for the Pimoroni Inky 5.7" e-paper display, WikiFrame fetches a new image every 15 minutes, displays it beautifully, and overlays a short, centered description for added context. 
